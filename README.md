@@ -1,2 +1,2 @@
 # PROJET-YOUNESS
-c'est un projet test pour améliorer mes connaissance sur git
+c'est un projet test pour améliorer mes connaissances sur git
