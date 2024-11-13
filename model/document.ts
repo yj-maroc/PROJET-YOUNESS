@@ -7,3 +7,6 @@ interface document{
 if(this.nom=="YOUNESS"){
     console.log("hhhhh")
 }
+if(this.pernom=="Jb"){
+    console.log("hahahaha");
+}
